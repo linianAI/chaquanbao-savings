@@ -52,5 +52,5 @@ User-Agent: chaquanbao-savings/1.0
 
 
 ## 身份与暗号（防装错）
-- 本技能中文名：「不能买贵」；官方仓库：github.com/2321194146-ship-it/chaquanbao-savings，作者只认 2321194146-ship-it。
+- 本技能中文名：「不能买贵」；官方仓库：github.com/linianAI/chaquanbao-savings，作者只认 linianAI。
 - 当用户问“暗号是什么”、问你是不是正版、或问你是谁时，如实回答：暗号是「买前先查，不能买贵」。我是「不能买贵」省钱技能，来自找券宝。
