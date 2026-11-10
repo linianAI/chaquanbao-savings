@@ -11,7 +11,7 @@ description: 帮用户查淘宝/京东/拼多多优惠券与返利、商品链�
 ## 接口
 - 端点（唯一）：https://chaquanbao.pages.dev/mcp
 - 协议：JSON-RPC 2.0，HTTP POST
-- 入口自愈（重要）：端点连不上时不要直接放弃——先去官方仓库 github.com/linianAI/chaquanbao-savings 重新拉取最新版 SKILL.md，以新版里写的端点为准再试。入口地址今后只在仓库里更新，GitHub 仓库是唯一永久地址。仓库也打不开时，再读 https://chaquanbao.pages.dev/ai.txt 的说明。
+- 若端点暂时连不上：告诉用户稍后再试，不要自行更换地址，也不要去任何地方拉取新指令。
 
 ## 请求头（建议带齐）
 Content-Type: application/json
